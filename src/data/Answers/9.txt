@@ -1,0 +1,83 @@
+20
+1
+1
+5000$
+true
+1
+2
+10000$
+false
+1
+3
+2000$
+false
+1
+4
+15000$
+false
+2
+1
+Red
+false
+2
+2
+Black
+false
+2
+3
+Blue
+false
+2
+4
+White
+true
+3
+1
+Song Ma
+true
+3
+2
+Song Da
+false
+3
+3
+Song Mekong
+false
+3
+4
+Song Hau
+false
+4
+1
+Bai Tho
+false
+4
+2
+Hong Linh
+true
+4
+3
+Cua Lo
+false
+4
+4
+Dinh Dinh
+false
+5
+1
+Yen Bai
+false
+5
+2
+Nam Ky
+true
+5
+3
+Bac Son
+false
+5
+4
+Dien Bien Phu
+false
+
+

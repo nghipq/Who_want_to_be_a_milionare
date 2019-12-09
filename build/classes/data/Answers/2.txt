@@ -1,0 +1,81 @@
+20
+1
+1
+Sahara
+true
+1
+2
+Nami
+false
+1
+3
+Kalahari
+false
+1
+4
+Gobi
+false
+2
+1
+1945
+false
+2
+2
+1954
+false
+2
+3
+1975
+false
+2
+4
+1973
+true
+3
+1
+Romantic
+false
+3
+2
+Satire
+true
+3
+3
+Action
+false
+3
+4
+Slice of life
+false
+4
+1
+Can Tho
+false
+4
+2
+Nghe An
+false
+4
+3
+Long Xuyen
+true
+4
+4
+Binh Thuan
+false
+5
+1
+Bun cha
+true
+5
+2
+Pho
+false
+5
+3
+Bun dau mam tom
+false
+5
+4
+DOAN XEM!
+false

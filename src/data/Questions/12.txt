@@ -1,0 +1,13 @@
+5
+50000
+false
+1
+Which musician composes the song "Bui Phan"?
+2
+Is the film "Thien Menh Anh Hung" directed by Victor Vu based on the injustice in the life of any celebrity?
+3
+Which island is Cyprus?
+4
+Which red double decker bus is a symbol of which city?
+5
+What is the most abundant metal in the earth's crust?

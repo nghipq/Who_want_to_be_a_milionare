@@ -1,0 +1,85 @@
+20
+1
+1
+Winchester
+false
+1
+2
+QBZ
+false
+1
+3
+Mini 14
+false
+1
+4
+M416
+true
+2
+1
+Moba
+true
+2
+2
+FPS
+false
+2
+3
+MMO
+false
+2
+4
+Indie
+false
+3
+1
+Riven
+false
+3
+2
+Yuumi
+false
+3
+3
+Yasuo
+true
+3
+4
+Ahri
+false
+4
+1
+SKT T1
+false
+4
+2
+Fnatic
+false
+4
+3
+Taipei Assassins
+true
+4
+4
+Samsung White
+false
+5
+1
+Refund Gaming
+true
+5
+2
+Divine Esports
+false
+5
+3
+Sky Gaming Dalak
+false
+5
+4
+Pochinki House
+false
+
+
+
+

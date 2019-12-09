@@ -1,0 +1,84 @@
+20
+1
+1
+7
+false
+1
+2
+8
+false
+1
+3
+9
+false
+1
+4
+A lot of colors
+true
+2
+1
+Bach Ma
+true
+2
+2
+Hoang Lien Son
+false
+2
+3
+Truong Son
+false
+2
+4
+Tam Dao
+false
+3
+1
+Hanged
+false
+3
+2
+Cut tendon hand
+false
+3
+3
+Eat dog baits
+true
+3
+4
+Jump into the abyss
+false
+4
+1
+Lien
+false
+4
+2
+Lan
+false
+4
+3
+Hanh
+false
+4
+4
+An
+true
+5
+1
+Dao
+false
+5
+2
+Tocno
+false
+5
+3
+3X
+false
+5
+4
+Pheninketo Nieu
+true
+
+
+
